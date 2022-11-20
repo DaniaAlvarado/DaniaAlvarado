@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm DaniaAlvarado</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **JavaScript, React,**
+- 🌱 I’m currently learning **JavaScript, React, CSS**
 
 - 📫 How to reach me **dania26alvarado@gmail.com**
 
