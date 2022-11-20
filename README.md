@@ -1,3 +1,4 @@
+<img align="center" src='https://media.giphy.com/media/xT8qBt3pdiCZrk3erS/giphy.gif'width="200" />
 <h1 align="center">Hi 👋, I'm DaniaAlvarado</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
