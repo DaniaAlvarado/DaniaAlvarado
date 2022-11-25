@@ -2,7 +2,7 @@
   <img  src='https://media.giphy.com/media/xT8qBt3pdiCZrk3erS/giphy.gif' width="200" />
 </div>
 
-<h1 align="center">Hi 👋, I'm DaniaAlvarado</h1>
+<h1 align="center">Hi 👋, I'm Daniela Alvarado</h1>
 <h3 align="center">A passionate frontend developer and reader from Colombia</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, CSS**
