@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Daniela Alvarado</h1>
-<h3 align="center">A passionate frontend developer and reader from Colombia</h3>
+<h3 align="center">A passionate Frontend Developer and reader from Colombia</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, CSS**
 
