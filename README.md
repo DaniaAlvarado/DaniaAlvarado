@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Daniela Alvarado</h1>
 <h3 align="center">A passionate Frontend Developer and reader from Colombia</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, CSS**
+- 💬 Ask me about **React, JavaScript, Redux, HTML, CSS-Sass**
+
+- 🌱 I’m currently learning **Angular, TypeScript**
 
 - 📫 How to reach me **dania26alvarado@gmail.com**
 
